@@ -1,0 +1,12 @@
+{
+  "name": "robotica-educativa-ar",
+  "version": "1.0.0",
+  "description": "Plataforma de robótica educativa para docentes argentinos",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
